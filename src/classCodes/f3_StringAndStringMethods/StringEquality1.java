@@ -8,7 +8,7 @@ public class StringEquality1 {
 
         String name = "Lachyn" ;
 
-       // boolean b = (name ==  "Lachyn"); //it is not for equality this time
+        // boolean b = (name ==  "Lachyn"); //it is not for equality this time
 
         // we use method from String class called equals
 
