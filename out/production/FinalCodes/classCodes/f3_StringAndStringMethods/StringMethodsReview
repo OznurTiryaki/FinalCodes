@@ -1,0 +1,45 @@
+Common String Methods
+
+charAt()	Returns the character at the specified index (position)	--> Return : char
+
+concat()	Appends a string to the end of another string -->	Return : String
+
+contains()	Checks whether a string contains a sequence of characters -->	Return : boolean
+
+endsWith()	Checks whether a string ends with the specified character(s) --> Return :	boolean
+
+equals()	Compares two strings. Returns true if the strings are equal, and false if not -->	Return : boolean
+
+equalsIgnoreCase()	Compares two strings, ignoring case considerations -->	Return : boolean
+
+indexOf()	Returns the position of the first found occurrence of specified characters in a string	--> Return : int
+
+isEmpty()	Checks whether a string is empty or not	  Return : boolean
+
+lastIndexOf()	Returns the position of the last found occurrence of specified characters in a string --> Return :	int
+
+length()	Returns the length of a specified string -->  Return :int
+
+replace()	Searches a string for a specified value, and returns a new string where the specified values are replaced --> return : String
+
+replaceFirst()	Replaces the first occurrence of a substring that matches the given regular expression with the given replacement	--> return : String
+
+replaceAll()	Replaces each substring of this string that matches the given regular expression with the given replacement	--> Return : String
+
+split()	Splits a string into an array of substrings	--> Return : String[]
+
+startsWith()	Checks whether a string starts with specified characters --> Return :	boolean
+
+substring()	Returns a new string which is the substring of a specified string	--> Return : String
+
+toCharArray()	Converts this string to a new character array --> Return :	char[]
+
+toLowerCase()	Converts a string to lower case letters  --> Return : String
+
+toString()	Returns the value of a String object --> Return :	String
+
+toUpperCase()	Converts a string to upper case letters	--> Return : String
+
+trim()	Removes whitespace from both ends of a string --> Return :	String
+
+valueOf()	Returns the string representation of the specified value	--> Return : String
